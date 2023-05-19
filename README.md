@@ -35,7 +35,8 @@ Robot positions are recorded as Targets. Follow these steps to create two target
 Similaly fix target in the given position 
 
 ## Output
-
+### Name    : B.Vijay Kumar
+### Reg.No  : 212222230173
 ![Screenshot (361)](https://user-images.githubusercontent.com/119657657/234749877-477e8fc1-53a6-4fbc-8f97-eba3b0a62c48.png)
 
 
